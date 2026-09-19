@@ -593,8 +593,9 @@ a{
 .sec5-circles{
     list-style: none;
     position: absolute;
-    top: 78%;
+    top: 76%;
     left: 62%;
+    
     
 }
 .sec5-circles li{
@@ -603,6 +604,7 @@ a{
     border-radius: 8px;
     background-color: #777185;
     margin-right: 5px;
+    margin-top: 8px;
     display: inline-block;
     
     
