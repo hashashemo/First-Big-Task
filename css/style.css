@@ -42,7 +42,7 @@ a{
 /* ////////////////////////////////////////header and hero start/////////////////////////////////////////////////////// */
 
 .header{
-    background: rgba(7, 7, 13, 0.712);
+    background-color: #07070D;;
     width: 100%;
     height: 50px;
     position: fixed;
@@ -58,7 +58,7 @@ a{
     float: left;
 }
 .home:hover{
-    color: rgb(168, 85, 247);
+    color: #A855F7;
 }
 .search{
     font-size: 20px;
@@ -106,7 +106,7 @@ a{
 }
 .navbar li a{
     position: relative;
-    color: rgb(168, 85, 247);
+    color: #B8B4C7;
     padding-bottom: 3px;
 }
 .navbar li a::after{
@@ -127,7 +127,7 @@ a{
 
 }
 .navbar li a:hover{
-    color: #FFFFFF;
+    color: #A855F7;
 }
 .dropdown{
     position: relative;
@@ -154,7 +154,7 @@ a{
     margin-left: 10px;
 }
 .dropdown-menu li a{
-    color: #D0CBDD;
+    color: #B8B4C7;
     position: relative;
     padding-bottom: 6px;
 }
@@ -169,7 +169,7 @@ a{
     bottom:  0;
     left: 0;
     opacity: 0;
-    background-color: #D0CBDD;
+    background-color: #A855F7;
 }
 .hero-container{
     width: 100%;
